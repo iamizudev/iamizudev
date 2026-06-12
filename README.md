@@ -1,40 +1,49 @@
+Reorder Sections
+Preview
+Markdown
+Copy
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Emmanuel Ozoude
 ========================================================================================================================================
 
-Cloud Data Engineer Building Reliable AWS Data Pipelines
---------------------------------------------------------
+AWS Cloud Engineer | Building Scalable Cloud Solutions on AWS
+-------------------------------------------------------------
 
-I'm a Cloud Data Engineer focused on designing, building, and maintaining scalable data solutions on AWS.
+I'm an AWS Cloud Engineer focused on designing, deploying, securing, and managing cloud infrastructure on Amazon Web Services.
 
-I specialize in transforming raw data into reliable, business-ready datasets through modern data engineering practices, including data ingestion, storage, transformation, orchestration, and monitoring.
+I specialize in building reliable, scalable, and cost-effective cloud environments using AWS best practices, automation, and Infrastructure as Code.
 
 My core focus areas include:
 
-• Building ETL/ELT data pipelines
+☁️ AWS Cloud Infrastructure
 
-• AWS cloud data services (S3, Lambda, Glue, Athena, Redshift)
+🔐 Identity & Access Management (IAM)
 
-• SQL and Python for data processing
+🌐 Networking (VPC, Route 53, Load Balancers)
 
-• Data modeling and analytics engineering
+🖥️ Compute Services (EC2, Auto Scaling)
 
-• Workflow orchestration with Dagster
+📦 Storage Solutions (S3, EBS, EFS)
 
-• Data quality, monitoring, and automation
+🗄️ Databases (RDS, DynamoDB)
 
-• Cloud infrastructure and DataOps practices
+🚀 Cloud Deployment & Automation
 
-I enjoy solving data challenges such as broken pipelines, inefficient workflows, poor data quality, and reporting bottlenecks. My goal is to create reliable systems that help organizations make better decisions with their data.
+📊 Monitoring & Logging (CloudWatch, CloudTrail)
 
-Currently, I am continuously expanding my expertise in cloud computing, data engineering, and DevOps while building real-world projects that demonstrate scalable and production-oriented solutions.
+💰 AWS Cost Optimization
+
+⚙️ CI/CD Fundamentals
+
+🐧 Linux System Administration
+
+⚙️ Infrastructure as Code (Terraform)
 
 * 🌍  I'm based in Port Harcourt Nigeria
 * ✉️  You can contact me at [eozoude95@gmail.com](mailto:eozoude95@gmail.com)
-* 🧠  I'm currently learning ☁️ AWS Cloud Engineering 📊 Data Engineering & DataOps 🔄 ETL/ELT Pipeline Development 🐍 Python for Data Automation 🗄️ SQL & Data Modeling ⚙️ Dagster Workflow Orchestration 🐳 Docker & Containerization 🐧 Linux System Administration 🚀 CI/CD Fundamentals 🏗️ Cloud & Data Pipeline Architecture
-* 👥  I'm looking to collaborate on I'm open to collaborating on projects involving cloud infrastructure, data pipelines, workflow automation, analytics engineering, DataOps practices, and AWS-based solutions. I'm also interested in contributing to open-source projects and building scalable data platforms.
+* 👥  I'm looking to collaborate on 👥 I'm open to collaborating on AWS cloud projects, infrastructure automation, cloud security, cost optimization, and open-source cloud engineering initiatives.
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
 </p>
 
 ### Socials
